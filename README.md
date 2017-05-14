@@ -49,5 +49,3 @@ Ez a szoftver a következőkre lesz képes, mikor elkészül:
 - user account-ot törölni
 
 
-
-Köszönetetnyilvánítás lesz az oldal alján.
